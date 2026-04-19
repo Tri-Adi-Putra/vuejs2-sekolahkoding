@@ -51,3 +51,5 @@ Tips Tambahan:
 * Visual Studio Code: Gunakan ekstensi Volar (Vue Language Features) untuk pengalaman coding terbaik di Linux. [16] 
 * 
 
+<img width="847" height="1004" alt="image" src="https://github.com/user-attachments/assets/581b7427-1391-4e59-b812-49f40ed60572" />
+
