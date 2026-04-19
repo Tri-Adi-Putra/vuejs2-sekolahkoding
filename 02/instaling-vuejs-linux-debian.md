@@ -53,3 +53,6 @@ Tips Tambahan:
 
 <img width="847" height="1004" alt="image" src="https://github.com/user-attachments/assets/581b7427-1391-4e59-b812-49f40ed60572" />
 
+
+<img width="1842" height="942" alt="image" src="https://github.com/user-attachments/assets/33affb55-47f2-4996-97b1-17f654b9f841" />
+
