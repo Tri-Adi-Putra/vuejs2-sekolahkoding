@@ -12,7 +12,6 @@ Vue.js memerlukan Node.js. Pastikan sistem Anda mutakhir dan instal Node.js bese
 * 
 <img width="749" height="444" alt="image" src="https://github.com/user-attachments/assets/7d37e257-b426-43be-9979-a9fe4b7da02d" />
 
-<img width="745" height="796" alt="image" src="https://github.com/user-attachments/assets/8f7b2342-7dc5-4337-ac9f-4d6dc3e6f2a7" />
 
 
 ## 2. Opsi A: Membuat Proyek dengan Vite (Direkomendasikan)
@@ -24,6 +23,8 @@ Metode ini adalah standar terbaru untuk memulai proyek Vue 3 karena jauh lebih c
    
    2. Ikuti instruksi interaktif di terminal (seperti memberi nama proyek, memilih TypeScript, dll).
    3. Masuk ke folder proyek, instal dependensi, dan jalankan server:
+<img width="745" height="796" alt="image" src="https://github.com/user-attachments/assets/8f7b2342-7dc5-4337-ac9f-4d6dc3e6f2a7" />
+
    
    cd nama-proyek-anda
    npm install
