@@ -1,5 +1,11 @@
 # vuejs2-sekolahkoding
 
 pembelajaran terakhir
-<img width="897" height="725" alt="image" src="https://github.com/user-attachments/assets/19dc2070-bab5-4a28-89f3-9b99e3a09084" />
+
+
+https://www.youtube.com/watch?v=hPKYHIQQBMk&list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ&index=2
+<img width="1361" height="882" alt="image" src="https://github.com/user-attachments/assets/69824ff9-c77c-44ed-9e73-68bec892d716" />
+
+
+
 https://app.sko.dev/archived/kelas/belajar-vuejs-101
