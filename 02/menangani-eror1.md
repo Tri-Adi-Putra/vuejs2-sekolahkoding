@@ -9,6 +9,7 @@ Untuk memperbaikinya, Anda perlu memperbarui daftar paket repositori terlebih da
    sudo apt update
    
    Pastikan proses ini selesai tanpa error dan Anda memiliki koneksi internet.
+   
    2. Coba instal kembali:
    
    sudo apt install nodejs npm
@@ -17,7 +18,8 @@ Untuk memperbaikinya, Anda perlu memperbarui daftar paket repositori terlebih da
    Jika masih ada satu atau dua file yang gagal, gunakan saran dari terminal Anda:
    
    sudo apt install nodejs npm --fix-missing
-   
+   <img width="638" height="228" alt="image" src="https://github.com/user-attachments/assets/3a2290c2-b456-4d92-945d-e49dab2b2d7f" />
+
    
 Kenapa ini terjadi?
 Di Kali Linux (dan Debian/Ubuntu), paket-paket sering diperbarui. Jika Anda sudah lama tidak menjalankan apt update, sistem Anda mencoba mendownload file .deb versi lama yang sudah dihapus dari server official Kali.
