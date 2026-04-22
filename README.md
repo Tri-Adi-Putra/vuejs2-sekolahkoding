@@ -9,3 +9,5 @@ https://www.youtube.com/watch?v=hPKYHIQQBMk&list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8l
 
 
 https://app.sko.dev/archived/kelas/belajar-vuejs-101
+
+untuk bacaan di notbook lm lanjut ke yang ke 3 , karena yang ke 2 sudah di baca . dan pembelajaran video baiknya di lanjutkan dari menit ke 2:30 lalu di ulang lagi sambil menulis code nya
